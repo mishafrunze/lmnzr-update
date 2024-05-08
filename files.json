@@ -1,4 +1,8 @@
 {
+  "version" : "1.0.0",
+  "messages" : {
+    
+  },
   "files": [
     "src/bundles/css/dev/LmnzrLayoutHelpers.css",
     "src/bundles/css/_bootstrap-map-overrides.scss",
