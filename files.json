@@ -19,10 +19,6 @@
     "src/layouts/lmnzr-layout.twig",
     "src/pages/lmnzr-main.twig",
     "gulpfile.js",
-    ".babelrc",
-    "lmnzr.config.json",
-    "package.json",
-    "package-lock.json",
-    ".nvmrc"
+    "lmnzr.config.json"
   ]
 }
