@@ -5,9 +5,7 @@
   },
   "files": [
     "src/bundles/css/dev/LmnzrLayoutHelpers.css",
-    "src/bundles/css/_bootstrap-map-overrides.scss",
-    "src/bundles/css/_bootstrap-optionally.scss",
-    "src/bundles/css/_bootstrap-variable-overrides.scss",
+    "src/bundles/css/_bootstrap.scss",
     "src/bundles/css/_LmnzrCore-helpers.scss",
     "src/bundles/css/_LmnzrCore-mixins.scss",
     "src/bundles/css/main.scss",
